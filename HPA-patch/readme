@@ -1,0 +1,1 @@
+This script is used to patch Kubernetes resources/hpa for multiple cluster and services at once.
