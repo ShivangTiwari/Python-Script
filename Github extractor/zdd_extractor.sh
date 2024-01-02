@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Set the root directory
-root_directory="zdd-hbl-aws-aps1-zeta-1-prod-eks/cluster-deployment-descriptors"
+root_directory=
 
 # Set the output file
 output_file="output.csv"
@@ -10,7 +10,7 @@ output_file="output.csv"
 echo "ZONE,CLUSTER,APPLICATION,ENV PROPERTY" > "$output_file"
 
 # Loop over PCI and NONPCI directories
-for environment in "hbl-aws-aps1-zeta-pcidss-1-prod-eks" "hbl-aws-aps1-zeta-nonpcidss-1-prod-eks"; do
+for environment in ""; do
 
     # Set the full path for the current environment
     environment_path="$root_directory/$environment"
