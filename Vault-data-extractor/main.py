@@ -5,8 +5,8 @@ from Functions import get_keys
 from Functions import get_data
 from Functions import get_version_no
 # Authenticate with Vault using hvac
-vault_url = 'https://vault.uat-hdfclz.zetapay.in/'
-vault_token = 'hvs.CAESICgYaBKK-o7SvyZvE0lR0tYSZMoV0RySv7rOzIOGwxPOGh4KHGh2cy5BNERFSmlkOVNEd3poZXltbmlPMTRBTVE'
+vault_url =
+vault_token = 
 headers = {
     "X-Vault-Token": vault_token
 }
