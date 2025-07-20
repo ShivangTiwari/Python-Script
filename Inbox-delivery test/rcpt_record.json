@@ -1,7 +1,7 @@
 
 {
     "sender_details": {
-        "email" :"deliverability@mailtestruns.titandevops.org",
+        "email" :"x",
         "password" :"qPBFEmGUIy",
         "server" : "smtp.titan.email",
         "port" : 465
@@ -44,40 +44,40 @@
     },
 
     "rcpts": {
-        "rajest432@gmail.com": {
+        "r@gmail.com": {
             "pwd": "expyajrmjuuepwsd",
             "provider": "gmail"
         },
-        "brahamga542@gmail.com": {
+        "b@gmail.com": {
             "pwd": "qqvelhlbnqyumpfm",
             "provider": "gmail"
         },
-         "mayankgupta7223@outlook.com": {
+         "m@outlook.com": {
             "pwd": "Test@432",
             "provider": "outlook"
         },
-         "Nishit432@outlook.com": {
+         "N@outlook.com": {
             "pwd": "Test@432",
             "provider": "outlook"
         },
-         "Rajesh7223@outlook.com": {
+         "R@outlook.com": {
             "pwd": "Test@432",
             "provider": "outlook"
         },
-         "Piyush7223@outlook.com": {
+         "x@outlook.com": {
             "pwd": "Test@432",
             "provider": "outlook"
         },
-         "sumitgupta0580@outlook.com": {
+         "s@outlook.com": {
             "pwd": "Test@432",
             "provider": "outlook"
         },
-        "Piyusgu432@gmail.com" : {
+        "x@gmail.com" : {
             "pwd": "ehbwswosyqeytqos",
             "provider": "gmail"
         },
 
-        "sumitgupta511@myyahoo.com" : {
+        "x@myyahoo.com" : {
             "pwd":"fpsfhmhzyswoqlfk",
             "provider": "yahoo"
         }
