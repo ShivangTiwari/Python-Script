@@ -3,7 +3,7 @@
     "sender_details": {
         "email" :"x",
         "password" :"qPBFEmGUIy",
-        "server" : "smtp.titan.email",
+        "server" : "smtp.server",
         "port" : 465
     },
 
